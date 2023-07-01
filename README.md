@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **azure, devops, serverless**
 - 🔭 I’m currently **in-company**
-- 😄 Pronouns: ...
+- 😄 Pronouns: **he/him**
 - 📫 How to reach me **coldewey@duck.com**
 
 <h3 align="left">Connect with me:</h3>
