@@ -4,7 +4,7 @@
 - 💬 Ask me about **azure, devops, serverless**
 - 🔭 I’m currently **in-company**
 - 😄 Pronouns: **he/him**
-- 📫 How to reach me **coldewey@duck.com**
+- 📫 How to reach me **mail@coldewey.dev**
 - 📰 More information: **<a href="https://coldewey.dev" >coldewey.dev</a>**
 
 <h3 align="left">Connect with me:</h3>
