@@ -5,7 +5,7 @@
 - 🔭 I’m currently **in-company**
 - 😄 Pronouns: **he/him**
 - 📫 How to reach me **coldewey@duck.com**
-- 📰 More information: <a href="https://coldewey.dev" >
+- 📰 More information: <a href="https://coldewey.dev" >coldewey.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
